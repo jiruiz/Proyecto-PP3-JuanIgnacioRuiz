@@ -11,4 +11,4 @@ En la carpeta [mockups](https://github.com/jiruiz/Proyecto-PP3-JuanIgnacioRuiz/b
 
 
 #  Historias de Usuario
-En el proyecto de Github [PP3 User Stories](https://github.com/users/jiruiz/projects) se pueden ver las historias de usuario de esta app.
+En el proyecto de Github [PP3 User Stories](https://github.com/users/jiruiz/projects/1) se pueden ver las historias de usuario de esta app.
