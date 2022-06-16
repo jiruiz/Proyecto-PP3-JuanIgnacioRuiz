@@ -8,3 +8,7 @@ El anteproyecto está definido en este [documento](https://docs.google.com/docum
 
 # Mockups
 En la carpeta [mockups](https://github.com/jiruiz/Proyecto-PP3-JuanIgnacioRuiz/blob/main/Mockups.pdf) se encuentran los mockups de la app.
+
+
+#  Historias de Usuario
+En el proyecto de Github PP3 User Stories se pueden ver las historias de usuario de esta app.
